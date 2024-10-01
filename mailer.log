@@ -1,0 +1,15 @@
+2024-09-30 15:09:04,407 - ERROR - Failed to connect to SMTP server smtp.gmail.com:587. Error: [WinError 10061] No connection could be made because the target machine actively refused it
+2024-09-30 15:09:05,416 - ERROR - Error processing emails: main thread is not in main loop
+2024-09-30 15:45:45,020 - ERROR - Failed to connect to SMTP server smtp.gmail.com:587. Error: [WinError 10061] No connection could be made because the target machine actively refused it
+2024-09-30 15:45:46,030 - ERROR - Error processing emails: main thread is not in main loop
+2024-09-30 16:39:48,879 - ERROR - Failed to connect to SMTP server smtp.gmail.com:587. Error: [WinError 10061] No connection could be made because the target machine actively refused it
+2024-09-30 16:39:50,948 - ERROR - Failed to connect to SMTP server smtp.gmail.com:587. Error: [WinError 10061] No connection could be made because the target machine actively refused it
+2024-09-30 16:39:50,990 - ERROR - Error processing emails: invalid command name ".!toplevel2.!frame2.!scrolledtext"
+2024-09-30 23:18:12,294 - ERROR - Failed to connect to SMTP server smtp.gmail.com:587. Error: [WinError 10061] No connection could be made because the target machine actively refused it
+2024-09-30 23:18:13,304 - ERROR - Error processing emails: main thread is not in main loop
+2024-09-30 23:20:40,916 - ERROR - Failed to connect to SMTP server smtp.gmail.com:587. Error: [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+2024-09-30 23:20:42,980 - ERROR - Failed to connect to SMTP server smtp.gmail.com:587. Error: [WinError 10061] No connection could be made because the target machine actively refused it
+2024-09-30 23:20:45,044 - ERROR - Failed to connect to SMTP server smtp.gmail.com:587. Error: [WinError 10061] No connection could be made because the target machine actively refused it
+2024-09-30 23:20:47,111 - ERROR - Failed to connect to SMTP server smtp.gmail.com:587. Error: [WinError 10061] No connection could be made because the target machine actively refused it
+2024-09-30 23:20:55,177 - ERROR - Failed to connect to SMTP server smtp.gmail.com:587. Error: [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+2024-09-30 23:20:56,187 - ERROR - Error processing emails: main thread is not in main loop
